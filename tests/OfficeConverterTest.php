@@ -7,7 +7,7 @@
  * Time:    12:49 AM
  **/
 
-use NcJoes\OfficeConverter\OfficeConverter;
+use EurechaSherij\OfficeConverter\OfficeConverter;
 use PHPUnit\Framework\TestCase;
 
 class OfficeConverterTest extends TestCase
