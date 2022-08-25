@@ -248,7 +248,7 @@ class OfficeConverter
         $process = proc_open($cmd, [0 => ['pipe', 'r'], 1 => ['pipe', 'w'], 2 => ['pipe', 'w']], $pipes);
 
         if (false === $process) {
-            throw new OfficeConverterException('Cannot obtain ressource for process to convert file');
+            throw new OfficeConverterException('Cannot obtain resource for process to convert file');
         }
 
         fwrite($pipes[0], $input);
