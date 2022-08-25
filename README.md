@@ -35,7 +35,7 @@ Here are some samples.
 ```php
 <?php
 // if you are using composer, just use this
-use NcJoes\OfficeConverter\OfficeConverter;
+use EurechaSherij\OfficeConverter\OfficeConverter;
 
 $converter = new OfficeConverter('test-file.docx');
 $converter->convertTo('output-file.pdf'); //generates pdf file in same directory as test-file.docx
