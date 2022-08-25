@@ -1,6 +1,6 @@
 <?php
 
-namespace NcJoes\OfficeConverter;
+namespace EurechaSherij\OfficeConverter;
 
 class OfficeConverter
 {
