@@ -1,5 +1,5 @@
 # Office Converter
-#### PHP Wrapper for LibreOffice
+#### PHP Wrapper for LibreOffice on Windows
 
 Convert offices files to PDF and HTML using LibreOffice or OpenOffice.
 Supported conversion formats include:
@@ -52,3 +52,5 @@ The OfficeConverter package is open-sourced software licensed under the [MIT lic
 ### Feedback & Contribute
 
 Notify me of any issues, bugs, or improvements. Thanks :+1:
+
+Forked from : https://github.com/ncjoes/office-converter
