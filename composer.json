@@ -1,12 +1,16 @@
 {
     "name" : "eurechasherij/office-converter-windows",
-    "description" : "PHP Wrapper for LibreOffice",
+    "description" : "PHP Wrapper for LibreOffice on Windows",
     "keywords" : ["Office","Converter"],
     "license" : "MIT",
     "authors" : [
         {
             "name" : "Chukwuemeka Nwobodo",
             "email" : "jc.nwobodo@gmail.com"
+        },
+        {
+            "name" : "Eurecha Sherij Anakimesta
+            "email" : "eurechasherij@gmail.com"
         }
     ],
     "require" : {
